@@ -117,66 +117,66 @@ export const albumsData = [
 export const songsData = [
     {
         id:0,
-        name: "Song One",
+        name: "Dune",
         image: img1,
         file:song1,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"By: Frank Herbert",
         duration:"3:00"
     },
     {
         id:1,
-        name: "Song Two",
+        name: "Project Hail Mary",
         image: img2,
         file:song2,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"By: Andy Weir",
         duration:"2:20"
     },
     {
         id:2,
-        name: "Song Three",
+        name: "The Chronicles of Narnia Complete Audio Collection",
         image: img3,
         file:song3,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"By: C. S. Lewis",
         duration:"2:32"
     },
     {
         id:3,
-        name: "Song Four",
+        name: "George Orwell’s 1984",
         image: img4,
         file:song1,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"By: George Orwell",
         duration:"2:50"
     },
     {
         id:4,
-        name: "Song Five",
+        name: "We Are Legion (We Are Bob)",
         image: img5,
         file:song2,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"By: Dennis E. Taylor",
         duration:"3:10"
     },
     {
         id:5,
-        name: "Song Six",
+        name: "Dune Messiah",
         image: img14    ,
         file:song3,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"By: Frank Herbert",
         duration:"2:45"
     },
     {
         id:6,
-        name: "Song Seven",
+        name: "The Primal Hunter",
         image: img7,
         file:song1,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"By: Zogarth",
         duration:"2:18"
     },
     {
         id:7,
-        name: "Song Eight",
+        name: "Defiance of the Fall",
         image: img12,
         file:song2,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"By: TheFirstDefier",
         duration:"2:35"
     }
 ]
