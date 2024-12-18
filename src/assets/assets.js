@@ -72,44 +72,44 @@ export const assets = {
 export const albumsData = [
     {   
         id:0,
-        name: "Top 50 Global",
+        name: "Top 8 Global",
         image: img8,
-        desc:"Your weekly update of the most played tracks",
+        desc:"",
         bgColor:"#2a4365"
     },
     {   
         id:1,
-        name: "Top 50 India",
+        name: "Top 8 Asia",
         image: img9,
-        desc:"Your weekly update of the most played tracks",
+        desc:"",
         bgColor:"#22543d"
     },
     {   
         id:2,
-        name: "Trending India",
+        name: "Trending Asia",
         image: img10,
-        desc:"Your weekly update of the most played tracks",
+        desc:"",
         bgColor:"#742a2a"
     },
     {   
         id:3,
         name: "Trending Global",
         image: img16,
-        desc:"Your weekly update of the most played tracks",
+        desc:"",
         bgColor:"#44337a"
     },
     {   
         id:4,
-        name: "Mega Hits,",
+        name: "Most Popular,",
         image: img11,
-        desc:"Your weekly update of the most played tracks",
+        desc:"",
         bgColor:"#234e52"
     },
     {   
         id:5,
         name: "Happy Favorites",
         image: img15,
-        desc:"Your weekly update of the most played tracks",
+        desc:"",
         bgColor:"#744210"
     }
 ]
@@ -133,7 +133,7 @@ export const songsData = [
     },
     {
         id:2,
-        name: "The Chronicles of Narnia Complete Audio Collection",
+        name: "The Chronicles of Narnia",
         image: img3,
         file:song3,
         desc:"By: C. S. Lewis",
